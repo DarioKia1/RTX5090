@@ -1,3 +1,3 @@
 RTX5090
 
-Visit `http://localhost:4173`
+Visit https://dariokia1.github.io/RTX5090/
